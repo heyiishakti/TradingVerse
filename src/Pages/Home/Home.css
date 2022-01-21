@@ -1,0 +1,13 @@
+.home {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.homeRow {
+  display: flex;
+  flex-direction: row;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+}
